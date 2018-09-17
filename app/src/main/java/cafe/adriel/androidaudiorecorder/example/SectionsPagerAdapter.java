@@ -6,7 +6,7 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//section page adapter designed for tab activity StudentMActivity
 public class SectionsPagerAdapter extends FragmentPagerAdapter {
 
     private final List<Fragment> mfragmentList=new ArrayList();
